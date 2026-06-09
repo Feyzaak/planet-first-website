@@ -29,7 +29,9 @@ Bu proje, bir web sitesinin arka planındaki tüm süreçleri yönetebilme konus
 <img width="1918" height="866" alt="Ekran görüntüsü 2026-06-10 021455" src="https://github.com/user-attachments/assets/7df38ca5-613d-4dce-937a-7ad0b49b23aa" />
 <img width="1919" height="866" alt="Ekran görüntüsü 2026-06-10 022045" src="https://github.com/user-attachments/assets/88c962b4-4da5-4c27-84da-1f6f4077de6b" />
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/a8c56b15-dbce-4b63-99b0-37e3a5e01e9e" />
+
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/09989c79-6750-4e84-b922-02afdab30d07" />
+
 <img width="442" height="108" alt="image" src="https://github.com/user-attachments/assets/f2f313d5-823a-4969-8bfe-0524427d9d31" />
 
 
