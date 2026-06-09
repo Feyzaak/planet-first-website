@@ -1,4 +1,3 @@
-# planet-first-website
 
 # Planet-First Proje Geliştirme Süreci
 
